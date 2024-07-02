@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Students Register</string>
+    <string name="create_account">Create Your Account</string>
+    <string name="email">Email</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="first_name_passport">First Name (as it appears in passport)</string>
+    <string name="last_name_passport">Last Name (as it appears in passport)</string>
+    <string name="mobile">Mobile</string>
+    <string name="password_hint">Password (at least 8 characters, 1 alphabet, 1 number)</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="continue_button">Continue</string>
+    <string name="submit_button">Submit</string>
+    <string name="arabic_button">العربية</string>
+    <string name="english_button">English</string>
+    <string-array name="salutation_options">
+        <item>Mr.</item>
+        <item>Miss</item>
+        <item>Ms.</item>
+    </string-array>
+    <string-array name="nationality_options">
+        <item>Select</item>
+        <item>Country 1</item>
+        <item>Country 2</item>
+        <!-- Add more countries as needed -->
+    </string-array>
+</resources>

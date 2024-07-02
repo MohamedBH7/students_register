@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">تسجيل الطلاب</string>
+    <string name="create_account">إنشاء حسابك</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="confirm_email">تأكيد البريد الإلكتروني</string>
+    <string name="first_name_passport">الاسم الأول (كما يظهر في جواز السفر)</string>
+    <string name="last_name_passport">الاسم الأخير (كما يظهر في جواز السفر)</string>
+    <string name="mobile">الجوال</string>
+    <string name="password_hint">كلمة المرور (على الأقل 8 أحرف، 1 حرف واحد ورقم واحد)</string>
+    <string name="confirm_password_hint">تأكيد كلمة المرور</string>
+    <string name="continue_button">متابعة</string>
+    <string name="submit_button">إرسال</string>
+    <string name="arabic_button">العربية</string>
+    <string name="english_button">الإنجليزية</string>
+    <string-array name="salutation_options">
+        <item>السيد</item>
+        <item>الآنسة</item>
+        <item>السيدة</item>
+    </string-array>
+    <string-array name="nationality_options">
+        <item>اختر</item>
+        <item>الدولة 1</item>
+        <item>الدولة 2</item>
+        <!-- Add translations for countries as needed -->
+    </string-array>
+</resources>
